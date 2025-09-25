@@ -15,6 +15,6 @@ Explore my work across the following platforms to get a better understanding of 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [vdt18022005@gmail.com]  
+- [![Email](https://img.shields.io/badge/Email-yourname%40example.com-D14836?logo=gmail&logoColor=white)](mailto:vdt18022005@gmail.com)
 - [![Facebook](https://img.shields.io/badge/Facebook-Vu%20Duc%20Thien-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ducthienvu.2005/)
 
