@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vu Duc Thien  
+# 👋 Hi, I'm Duc Thien  
 
 🎓 Information Systems student at **Thang Long University**, Hanoi, Vietnam.  
 💡 Passionate about **data analysis**, **databases**, **machine learning** and **exploring practical technology solutions**.  
@@ -16,5 +16,5 @@ Explore my work across the following platforms to get a better understanding of 
 
 ## 📫 Contact Me
 - 📧 Email: [vdt18022005@gmail.com]  
-- [![Facebook](https://img.shields.io/badge/Facebook-Vu%20Duc%20Thien-1877F2?logo=facebook&logoColor=white)]([https://www.facebook.com/your-username](https://www.facebook.com/ducthienvu.2005/))
+- [![Facebook](https://img.shields.io/badge/Facebook-Vu%20Duc%20Thien-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ducthienvu.2005/)
 
