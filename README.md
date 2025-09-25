@@ -9,7 +9,7 @@
 ## About Me
 
 Explore my work across the following platforms to get a better understanding of my capabilities and projects.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/your-long-profile-link-here](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-thi%E1%BB%87n-v%C5%A9-991a40243/))
+[LinkedIn]([https://www.linkedin.com/in/your-long-profile-link-here](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-thi%E1%BB%87n-v%C5%A9-991a40243/))
 
 
 ---
